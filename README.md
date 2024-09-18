@@ -77,6 +77,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/PelayoPS/PelayoPS/output/snake.svg" alt="Snake animation" />
 
 ###
