@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Pelayo Palacio Suárez</h1>
-<h3 align="center">💻 Multiplatform Development Student | Fullstack, Java, Python, DevOps, and more!</h3>
+<h3 align="center">💻 Multiplatform Development | Back-end, Java, Python, DevOps, and more!</h3>
 
 ---
 
