@@ -69,7 +69,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/capacitor/capacitor-original.svg" height="30" alt="capacitor logo" />
   <img width="12" />
-  <!-- Add more as needed -->
 </div>
 
 - **Databases:** MySQL, PostgreSQL
@@ -99,7 +98,7 @@
 - ⚡ **Stack:** Java 17+, Spring Boot, Electron, Node.js, HTML/CSS/JS, JPA/Hibernate, Gradle, GitHub Actions, PowerShell/Bash, etc.
 - 🤖 **AI built-in:** Custom AI Chat using Gemini/OpenAI, interact with LLMs directly in Discord.
 - 🛠️ **Features:** Modular commands, advanced moderation (warn, timeout, ban, purge, history), Electron GUI, automatic multiplatform builds (Windows, macOS, Linux, Android), native installers, CI/CD and versioning.
-- 🔒 **Security:** Role/permission management, SSL/TLS, credential isolation.
+- 🔒 **Security:** Role/permission management.
 - 📝 **Professional:** UML/PlantUML docs, scalable structure.
 - 📲 **Mobile support:** Android (Capacitor, native plugins).
 - 🏆 **This is my main focus and best reflects my full stack, AI, and DevOps skills.**
@@ -122,8 +121,7 @@
 
 - [JAVA_discord_bot](https://github.com/PelayoPS/JAVA_discord_bot) – Java Discord bot
 
-- [DiscordBot](https://github.com/PelayoPS/DiscordBot) – My first Discord bot, growing with JavaScript & Shell  
-  _"Este será mi primer bot de discord que iré actualizando poco a poco en mis tiempos libres y usando javascript."_
+- [DiscordBot](https://github.com/PelayoPS/DiscordBot) – My first Discord bot, growing with JavaScript & Shell
 
 - [EntregablePelayoPalacioSuarez](https://github.com/PelayoPS/EntregablePelayoPalacioSuarez) – Web (HTML, CSS, JS)
 
@@ -154,5 +152,3 @@
 </div>
 
 ---
-
-<sub>🛠️ This README includes all languages, technologies, and platforms in my main and notable repositories, including Java, Python, JavaScript, HTML, CSS, Batch, Shell, PowerShell, Docker, and more. If you spot anything missing, let me know!</sub>
